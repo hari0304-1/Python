@@ -39,6 +39,7 @@ METRIC_CONVERSION = {
     "Pm": 15,
     "Em": 18,
     "Zm": 21,
+    "Hm": 51,
     "Ym": 24,
 }
 
